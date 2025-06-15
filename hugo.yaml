@@ -57,7 +57,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/bg2.jpg
   # Background image of the landing page for dark theme
   #darkBackground: /images/site/background.jpg
 
@@ -84,6 +84,10 @@ params:
     # If `theme` is set, the `darkMode` setting will be discarded.
     # darkMode:
     #   enable: true
+
+    # Enable reading time support in post cards and in post pages
+    reading_time:
+      enable: false
 
     # Configure theme color settings
     theme:
@@ -268,10 +272,6 @@ params:
     # Enables copy code button
     copyCodeButton:
       enable: true
-
-    # Enable reading time support in post cards and in post pages
-    readingTime:
-      enable: false
 
     # Number of posts to show to each page. Default is "12"
     pagination:

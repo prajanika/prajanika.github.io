@@ -9,19 +9,19 @@ section:
 
 members:
   - name: "Arun Upadhyaya"
-    title: "Asst. Professor, IIT Bhilai"
+    title: "Assistant Professor, IIT Bhilai"
     image: "/images/sections/team/arun.jpg" # Path relative to your static folder
     description: "Dr. Arun Kumar Upadhyay is an esteemed researcher and educator specializing in neurodegeneration, proteomics, and drug discovery. Currently serving as an Assistant Professor at the Indian Institute of Technology (IIT) Bhilai, he integrates cutting-edge bioscience methodologies with AI-driven approaches to advance biomedical research. Dr. Upadhyay holds a Ph.D. in Bioscience and Bioengineering from IIT Jodhpur, complemented by an M.Sc. in Biochemistry from the University of Lucknow and a B.Sc. Honors from Hans Raj College, University of Delhi. His academic journey has been enriched by postdoctoral research at Northwestern University Feinberg School of Medicine, where he contributed to groundbreaking studies on protein misfolding, amyloid aggregation, and neurodegenerative diseases. His research focuses on Alzheimer’s disease, cancer biology, aging, maternal and child health and autophagy, employing mass spectrometry and proteomics to unravel complex biological mechanisms. As an Associate Editor for multiple journals, including BMC Molecular and Cell Biology, BMC Neuroscience, and Frontiers in Genetics, he plays a pivotal role in shaping scientific discourse. His contributions extend to international collaborations, with memberships in prestigious organizations and fellowships from national and international organizations. Dr. Upadhyay is deeply passionate about science communication, striving to bridge the gap between complex research and public understanding. He actively engages in outreach initiatives, crafting accessible educational materials and fostering interdisciplinary dialogue. Through workshops, publications, and digital platforms, he advocates for inclusive, impactful scientific discourse, ensuring knowledge translates into societal benefit."
-    # social:
-    #   - icon: "fab fa-github"
-    #     url: "https://github.com/janedoe"
-    #   - icon: "fab fa-linkedin-in"
-    #     url: "https://linkedin.com/in/janedoe"
+    social:
+      - icon: "fab fa-x-twitter"
+        url: "https://x.com/arkya"
+      - icon: "fab fa-linkedin-in"
+        url: "https://linkedin.com/in/arun-kumar-upadhyay-a7a91423"
 
   - name: "Isha Parlikar"
-    title: "Title"
+    title: "Associate Scientific Art Director, Ethosh Digital"
     image: "/images/sections/team/isha.jpg"
-    description: "Some description of team member."
+    description: "Isha is a trained cell culture analyst turned visual science communicator, working at the unique intersection of science, data, art, and design. ​ With a passion for transforming complex scientific ideas into visually engaging content, she has collaborated on award-winning projects that blend art and science. ​ Her expertise spans scientific illustrations, motion graphics, infographics, and research comics, all aimed at making science accessible and impactful. ​With a diverse background in research, design, and ed-tech, Isha has worked with leading organizations like Byju’s, IndiaBioscience, and Cactus Communication. She is also a co-applicant of the prestigious IndiaBioscience 5th Outreach Grant, creating infographics for this project on postpartum depression. Her portfolio showcases her dedication to science communication through innovative visual storytelling.​"
     social:
       - icon: "fab fa-x-twitter"
         url: "https://x.com/ishapniti"
