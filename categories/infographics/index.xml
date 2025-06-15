@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infographics on Prajanika</title><link>https://prajanika.github.io/categories/infographics/</link><description>Recent content in Infographics on Prajanika</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 08 Jun 2025 08:06:25 +0600</lastBuildDate><atom:link href="https://prajanika.github.io/categories/infographics/index.xml" rel="self" type="application/rss+xml"/><item><title>What is PostPartum Depression?</title><link>https://prajanika.github.io/posts/what-is-ppd/</link><pubDate>Sun, 08 Jun 2025 08:06:25 +0600</pubDate><guid>https://prajanika.github.io/posts/what-is-ppd/</guid><description>&lt;p>In this information brochure, we will learn about what post partum depression is.&lt;/p>
+&lt;div
+class="pdf-viewer"
+data-url="https://prajanika.github.io/posts/what-is-ppd/what-is-ppd.pdf"
+data-hide-paginator="false"
+data-hide-loader="false"
+data-page-num="1"
+>
+&lt;div class="paginator">
+&lt;div class="page-number-indicator">
+&lt;span>Page: &lt;span class="page-num">&lt;/span> / &lt;span class="page-count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div class="next-prev-btn">
+&lt;button class="prev btn btn-sm btn-info">Previous&lt;/button>
+&lt;button class="next btn btn-sm btn-info">Next&lt;/button>
+&lt;/div>
+&lt;/div>
+&lt;div class="embed-pdf-container">
+&lt;div class="loading-wrapper">
+&lt;div class="loading">&lt;/div>
+&lt;/div>
+&lt;canvas class="pdf-canvas">&lt;/canvas>
+&lt;/div>
+&lt;/div></description></item></channel></rss>
