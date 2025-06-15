@@ -1,0 +1,48 @@
+{{ $sectionID := replace (lower .section.name) " " "-"  }}
+{{ if .section.id }}
+{{ $sectionID = .section.id }}
+{{ end }}
+
+<div class="container anchor p-lg-5 about-section" id="{{ $sectionID }}">
+<div class="container py-5">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Our Team</h2>
+        </div>
+    </div>
+    <div class="row">
+        {{ if .members }}
+            {{ range .members }}
+            <div class="col-sm-6 mb-6">
+                <div class="team-member text-center">
+                    {{ if .image }}
+                    {{ $userImage:= (resources.Get .image).Resize "x200" }}
+                    <img class="mx-auto rounded-circle" src="{{ $userImage.RelPermalink }}" alt="Picture of {{ .name }}">
+                    {{ else }}
+                    <img class="mx-auto rounded-circle" src="{{ "/images/sections/team/default-avatar.png" | relURL }}" alt="{{ .name }}">
+                    {{ end }}
+                    <h4>{{ .name }}</h4>
+                    <p class="text-center">{{ .title }}</p>
+                    <p class="text-center">{{ .description }}</p>
+                    {{ if .social }}
+                    <ul class="list-inline social-buttons">
+                        {{ range .social }}
+                        <li class="list-inline-item">
+                            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+                                <i class="{{ .icon }}"></i>
+                            </a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                    {{ end }}
+                </div>
+            </div>
+            {{ end }}
+        {{ else }}
+        <div class="col-lg-12 text-center">
+            <p>No team members found. Please configure your team in `data/team.yaml` (or .json, .toml).</p>
+        </div>
+        {{ end }}
+    </div>
+</div>
+</div>

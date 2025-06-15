@@ -1,0 +1,29 @@
+# section information
+section:
+  name: Team
+  id: team
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/team.html
+
+members:
+  - name: "Arun Upadhyaya"
+    title: "Professor, IIT Bhilai"
+    image: "/images/sections/team/arun.jpg" # Path relative to your static folder
+    description: "Some description of the team member."
+    # social:
+    #   - icon: "fab fa-github"
+    #     url: "https://github.com/janedoe"
+    #   - icon: "fab fa-linkedin-in"
+    #     url: "https://linkedin.com/in/janedoe"
+
+  - name: "Isha Parlikar"
+    title: "Title"
+    image: "/images/sections/team/isha.jpg"
+    description: "Some description of team member."
+    social:
+      - icon: "fab fa-x-twitter"
+        url: "https://x.com/ishapniti"
+      - icon: "fab fa-linkedin-in"
+        url: "https://linkedin.com/in/ishaparlikar"

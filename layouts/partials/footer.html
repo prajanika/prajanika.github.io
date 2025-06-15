@@ -1,0 +1,19 @@
+{{/* variables for enabling/disabling parts of the footer */}}
+{{ $footerEnabled := site.Params.footer.enable | default true }}
+
+{{ $disclaimer := "" }}
+{{ $siteConfig := (index site.Data site.Language.Lang).site }}
+{{ if $siteConfig.disclaimer }} {{ $disclaimer = $siteConfig.disclaimer }} {{ end }}
+{{ if $footerEnabled }}
+<footer
+  id="footer"
+  class="container-fluid text-center align-content-center footer pb-2"
+>
+  <div class="container pt-5">
+    <hr />
+    <div class="container">
+      <p id="disclaimer"> {{ $disclaimer | markdownify }}</p>
+    </div>
+  </div>
+</footer>
+{{end}}
