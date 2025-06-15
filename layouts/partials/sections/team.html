@@ -13,7 +13,10 @@
     <div class="row">
         {{ if .members }}
             {{ range .members }}
-            <div class="col-sm-6 mb-6">
+        <div class="row">
+            <hr/>
+
+            <div class="col-sm-4 mb-4">
                 <div class="team-member text-center">
                     {{ if .image }}
                     {{ $userImage:= (resources.Get .image).Resize "x200" }}
@@ -23,7 +26,6 @@
                     {{ end }}
                     <h4>{{ .name }}</h4>
                     <p class="text-center">{{ .title }}</p>
-                    <p class="text-center">{{ .description }}</p>
                     {{ if .social }}
                     <ul class="list-inline social-buttons">
                         {{ range .social }}
@@ -36,6 +38,10 @@
                     </ul>
                     {{ end }}
                 </div>
+            </div>
+            <div class="col-sm-8 mb-8">
+                    <p class="text-left">{{ .description }}</p>
+            </div>
             </div>
             {{ end }}
         {{ else }}

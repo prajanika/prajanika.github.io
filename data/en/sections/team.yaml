@@ -9,9 +9,9 @@ section:
 
 members:
   - name: "Arun Upadhyaya"
-    title: "Professor, IIT Bhilai"
+    title: "Asst. Professor, IIT Bhilai"
     image: "/images/sections/team/arun.jpg" # Path relative to your static folder
-    description: "Some description of the team member."
+    description: "Dr. Arun Kumar Upadhyay is an esteemed researcher and educator specializing in neurodegeneration, proteomics, and drug discovery. Currently serving as an Assistant Professor at the Indian Institute of Technology (IIT) Bhilai, he integrates cutting-edge bioscience methodologies with AI-driven approaches to advance biomedical research. Dr. Upadhyay holds a Ph.D. in Bioscience and Bioengineering from IIT Jodhpur, complemented by an M.Sc. in Biochemistry from the University of Lucknow and a B.Sc. Honors from Hans Raj College, University of Delhi. His academic journey has been enriched by postdoctoral research at Northwestern University Feinberg School of Medicine, where he contributed to groundbreaking studies on protein misfolding, amyloid aggregation, and neurodegenerative diseases. His research focuses on Alzheimer’s disease, cancer biology, aging, maternal and child health and autophagy, employing mass spectrometry and proteomics to unravel complex biological mechanisms. As an Associate Editor for multiple journals, including BMC Molecular and Cell Biology, BMC Neuroscience, and Frontiers in Genetics, he plays a pivotal role in shaping scientific discourse. His contributions extend to international collaborations, with memberships in prestigious organizations and fellowships from national and international organizations. Dr. Upadhyay is deeply passionate about science communication, striving to bridge the gap between complex research and public understanding. He actively engages in outreach initiatives, crafting accessible educational materials and fostering interdisciplinary dialogue. Through workshops, publications, and digital platforms, he advocates for inclusive, impactful scientific discourse, ensuring knowledge translates into societal benefit."
     # social:
     #   - icon: "fab fa-github"
     #     url: "https://github.com/janedoe"
