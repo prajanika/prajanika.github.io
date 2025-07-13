@@ -19,7 +19,7 @@ members:
         url: "https://linkedin.com/in/arun-kumar-upadhyay-a7a91423"
 
   - name: "Isha Parlikar"
-    title: "Associate Scientific Art Director, Ethosh Digital"
+    title: "Associate Scientific Art Director, Ethosh"
     image: "/images/sections/team/isha.jpg"
     description: "Isha is a trained cell culture analyst turned visual science communicator, working at the unique intersection of science, data, art, and design. ​ With a passion for transforming complex scientific ideas into visually engaging content, she has collaborated on award-winning projects that blend art and science. ​ Her expertise spans scientific illustrations, motion graphics, infographics, and research comics, all aimed at making science accessible and impactful. ​With a diverse background in research, design, and ed-tech, Isha has worked with leading organizations like Byju’s, IndiaBioscience, and Cactus Communication. She is also a co-applicant of the prestigious IndiaBioscience 5th Outreach Grant, creating infographics for this project on postpartum depression. Her portfolio showcases her dedication to science communication through innovative visual storytelling.​"
     social:
@@ -27,3 +27,23 @@ members:
         url: "https://x.com/ishapniti"
       - icon: "fab fa-linkedin-in"
         url: "https://linkedin.com/in/ishaparlikar"
+
+  - name: "Somya Mishra"
+    title: "Assistant Professor, MIT-WPU Pune"
+    image: "/images/sections/team/somya.jpg"
+    description: "Dr. (Ar.) Somya Mishra is a highly accomplished and research-driven architect and designer, blending a robust academic background with professional design sensibility. With a Doctorate in Design from the prestigious Indian Institute of Technology Guwahati and a Master’s in Architecture from IIT Roorkee, she brings deep theoretical insight to her practice. A licensed architect in India and an accredited green building professional (IGBC-AP, GEM-CP), she has developed a multifaceted design perspective rooted in sustainability, ergonomics, and user-centered design. Her diverse professional journey spans academic and international design settings, including her role as an Architectural Designer in Chicago and faculty positions at reputed institutions like MIT World Peace University, Pune. She has contributed as a teaching assistant at top-tier institutions (IIT Guwahati, IIT Roorkee) and for national-level NPTEL certification programs. Dr. Mishra has presented at numerous international conferences such as ICoRD, SEANES, and HWWE, and has participated in advanced workshops on green architecture, statistical modeling, and disaster mitigation. Her unique blend of academic rigor, industry experience, and global exposure positions her as a leading design thinker capable of creating innovative, user-centric digital and spatial experiences—particularly in the realm of user centered design."
+    social:
+      #- icon: "fab fa-x-twitter"
+      #  url: "https://x.com/?"
+      #- icon: "fab fa-linkedin-in"
+      #  url: "https://linkedin.com/in/"
+
+  - name: "Amrita Singh"
+    title: "Assistant Professor in Obstetrics and Gynaecology, AIIMS Nagpur"
+    image: "/images/sections/team/amrita.jpg"
+    description: "Dr. Amrita Singh completed her MBBS from GMCH Nagpur under MUHS Nashik and pursued her postgraduation in Obstetrics and Gynaecology from the prestigious Fernandez Hospital, Hyderabad. With over 12 years of academic and clinical experience, she has worked across various reputed institutions, including AIIMS Raipur, MGIMS Wardha, KIMS Telangana, and NKPSIMS Nagpur, contributing to teaching, high-risk obstetrics, critical care, and medical research. She has had the privilege of establishing and organizing academic units and events such as High-Risk Obstetrics Units, CMEs, PG workshops, and laparoscopic training modules. Her research work includes 11 peer-reviewed publications, ranging from maternal mental health and thyroid disorders in pregnancy to rare gynaecological cases. Currently, she is the Co-Principal Investigator on an outreach grant from India Bioscience, working on postpartum depression awareness through infographics. She has presented at national and international conferences, including FIGO 2021, and was honoured with the Dr. Manjula Rohatgi Endoscopy Award at NOGS 2024. She holds certifications in research methodology, ultrasound, critical care in obstetrics, and am also a certified instructor for obstetric emergency courses like ALSO and BLSO. Education is her passion, and she has created educational video tutorials on maternal resuscitation and breastfeeding awareness, aimed at both professionals and frontline workers."
+    social:
+      #- icon: "fab fa-x-twitter"
+      #  url: "https://x.com/?"
+      #- icon: "fab fa-linkedin-in"
+      #  url: "https://linkedin.com/in/"
