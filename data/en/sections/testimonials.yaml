@@ -1,0 +1,18 @@
+# section information
+section:
+  name: Testimonials
+  id: testimonials
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: sections/testimonials.html
+
+testimonials:
+  - author: Supreet Bhatia, PhD. Healthcare Innovation Advisor
+    text: A new mother's postpartum depression (PPD) is a silent killer that affects you in unfathomable ways. This problem has a ripple effect that starts with your mental health, but slowly starts affecting your physical health, your relations, your family, your career, and most importantly, your self esteem. New mothers often struggle to understand their new life, and PPD makes it a next level struggle for them. Prajanika is a new wave in the right direction addressing PPD for new mothers and equipping them with the right support at the right time. This initiative will have a ripple effect in helping new mothers to cope up as well as educating their family and creating an ecosystem of shared understanding around it to make this world a better place for new mothers, their kids and our coming new generations.
+
+  - author: Swapna Khade. Founder, Hope Career Guidance
+    text: This design doesn’t just look beautiful,  it feels like a warm hug to the heart. Each color, each line, speaks gently to the unspoken emotions new mothers carry. It holds space for both the tears and the courage it takes to heal. There’s a quiet strength in the way it comforts without overwhelming. The blend of deep purple and calming blue feels like soft reassurance. It truly captures the journey of postpartum healing with grace and compassion.
+
+  - author: Prajanika-1
+    text: After giving birth, the early days were emotionally overwhelming. I felt tearful, anxious, scared, inexplicably low, and felt everything was going wrong. Through social media I learnt what I experienced many new mothers go through—postpartum blues. But I was fortunate to have the support of my family and their presence made a world of difference. They helped with the baby, ensured I was eating and resting, and most importantly, they listened without judgment. As my body recovered after the birth, so did my emotional state. I began to feel more like myself again. The fog started to lift, and I found joy in the little moments—the sound of my baby’s heartbeat, their tiny fingers wrapped around mine, the peaceful look on their face while sleeping, the first time they smiled at me, and a lot more. The sleepless nights and never ending day shifts hit me like a tsunami but these moments made everything worth it. I started bonding deeply with my baby, and that connection brought immense comfort and happiness. I also made it a point to take care of myself with a short evening walk and warm baths. These small acts of self-care helped me regain my emotional and mental strength, and confidence. Five months postpartum, I am on the way of full physical recovery as well. Looking back, I’m grateful for the support I had and the resilience I discovered within myself through the help of my family, especially my spouse. Postpartum blues are real, but with love, patience, care, and correct support healing is possible.
